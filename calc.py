@@ -18,7 +18,7 @@ def subtracao(a,b): #função subtracao
 def multiplicacao(a,b): #funcao multiplicacao
                 resultado=a*b
                 return print(a,"*",b,"=", resultado)
-def divisao(a,b): #funcao divisao
+def divisao(a,b): #funcao divisao ok
                 if b==0:
                     return print("Não foi possível realizar a divisão por 0") 
                 else:
